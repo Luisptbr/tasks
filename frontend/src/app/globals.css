@@ -1,0 +1,22 @@
+@import "tailwindcss";
+
+/* Definir fontes e variáveis globais */
+:root {
+  --font-sans: 'Geist Sans', sans-serif;
+  --font-mono: 'Geist Mono', monospace;
+}
+
+/* Aplicar tema escuro como padrão global */
+html {
+  /* Força o tema escuro para toda a aplicação */
+  background-color: #0a0a0a;
+  color: #ededed;
+}
+
+/* Estilos base do body */
+body {
+  font-family: var(--font-sans);
+  background-color: #0a0a0a;
+  color: #ededed;
+  /* Remove transições para melhor performance */
+}
