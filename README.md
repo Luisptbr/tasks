@@ -11,6 +11,17 @@ Projeto de estudos desenvolvido por Luis Henrique.
 
 Sistema completo de gerenciamento de tarefas e usuários, com backend em Spring Boot e frontend em Next.js.
 
+## Screenshots
+
+### Tela de Login
+![Tela de Login](task-login.png)
+
+### Tela de Cadastro
+![Tela de Cadastro](task-register.png)
+
+### Dashboard
+![Dashboard](task-dashboard.png)
+
 ## Arquitetura
 
 O projeto está dividido em duas partes principais:
