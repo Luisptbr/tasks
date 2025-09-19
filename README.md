@@ -1,5 +1,12 @@
 # Sistema de Gerenciamento de Tarefas
 
+[![Java](https://img.shields.io/badge/Java-17-orange)](https://www.oracle.com/java/)
+[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.5.5-green)](https://spring.io/projects/spring-boot)
+[![Next.js](https://img.shields.io/badge/Next.js-15-black)](https://nextjs.org/)
+[![React](https://img.shields.io/badge/React-19-blue)](https://reactjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5-blue)](https://www.typescriptlang.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 Projeto de estudos desenvolvido por Luis Henrique.
 
 Sistema completo de gerenciamento de tarefas e usuários, com backend em Spring Boot e frontend em Next.js.
@@ -111,3 +118,15 @@ O frontend estará disponível em: http://localhost:3000
 Para instruções detalhadas de cada parte do projeto:
 - Backend: Consulte `backend/README.md`
 - Frontend: Consulte `frontend/README.md`
+
+## Contribuindo
+
+Contribuições são sempre bem-vindas! Consulte o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber como contribuir.
+
+## Licença
+
+Este projeto está licenciado sob a Licença MIT - consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
+
+## Autor
+
+**Luis Henrique** - Projeto de estudos para desenvolvimento full-stack
